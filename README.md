@@ -1,14 +1,20 @@
 
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">Full Stack developer</h3>
+<h2 align="center">Full Stack developer</h2>
 
 ## Connect with me
 <p align="left">
- <a href='https://www.linkedin.com/in/alex-starichenko-00b825214'><img alt="linked-in" src="https://img.shields.io/badge/linkedin-%231877F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <a href='https://www.linkedin.com/in/alex-starichenko'><img alt="linked-in" src="https://img.shields.io/badge/linkedin-%231877F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  <a href='https://www.facebook.com/alex.starichenko'><img alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
  <a href='https://twitter.com/_glasgalas'><img alt="twitter" src="https://img.shields.io/badge/twitter-%231877F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
  <a href='https://t.me/glasgalas'><img alt="telegram" src="https://img.shields.io/badge/Telegram-%231877F2?logo=telegram&style=for-the-badge&logoColor=white" /></a>
 </p>
+
+## 🔭 My skills:
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,nodejs,mongodb,git,figma,docker)]
+
+## 🌱 I’m currently learning: 
+[![My Skills](https://skills.thijs.gg/icons?i=ts]
 
 <br/>
 <img align="left" src='https://www.codewars.com/users/Glasgalas/badges/large' alt='codewars' height='40'>
