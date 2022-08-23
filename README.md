@@ -14,7 +14,7 @@
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,nodejs,mongodb,git,figma,docker)](https://skills.thijs.gg)
 
 ## 🌱 I’m currently learning: 
-(https://skills.thijs.gg/icons?i=ts)
+[![My Skills](https://skills.thijs.gg/icons?i=ts)](https://skills.thijs.gg)
 
 <br/>
 <img align="left" src='https://www.codewars.com/users/Glasgalas/badges/large' alt='codewars' height='40'>
