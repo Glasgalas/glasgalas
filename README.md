@@ -23,7 +23,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=glasgalas&show_icons=true)  
  
- ![Visitor Count](https : //profile-counter.glitch.me/glasgalas/count.svg)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=glasgalas&left_color=green&right_color=red)
 <!--
 **Glasgalas/glasgalas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
