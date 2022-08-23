@@ -11,10 +11,10 @@
 </p>
 
 ## 🔭 My skills:
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,nodejs,mongodb,git,figma,docker)]
+(https://skills.thijs.gg/icons?i=html,css,js,react,nodejs,mongodb,git,figma,docker)
 
 ## 🌱 I’m currently learning: 
-[![My Skills](https://skills.thijs.gg/icons?i=ts]
+(https://skills.thijs.gg/icons?i=ts)
 
 <br/>
 <img align="left" src='https://www.codewars.com/users/Glasgalas/badges/large' alt='codewars' height='40'>
