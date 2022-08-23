@@ -11,7 +11,7 @@
 </p>
 
 ## 🔭 My skills:
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,nodejs,mongodb,git,figma,docker)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,nodejs,mongodb,redux,materialui,sass,styledcomponents,git,github,figma,heroku,netlify,webpack,vscode,docker,powershell,androidstudio)](https://skills.thijs.gg)
 
 ## 🌱 I’m currently learning: 
 [![My Skills](https://skills.thijs.gg/icons?i=ts)](https://skills.thijs.gg)
