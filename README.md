@@ -12,6 +12,9 @@
 
 ## 🔭 My skills:
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,nodejs,mongodb,redux,materialui,sass,styledcomponents,git,github,figma,heroku,netlify,webpack,vscode,docker,powershell,androidstudio)](https://skills.thijs.gg)
+<!-- <p align="center">
+  <a href="https://chakra-ui.com/"><img alt="Chakra" title="Chakra" height="48" width="48" src="assets/github.svg"></a>
+</p> -->
 
 ## 🌱 I’m currently learning: 
 [![My Skills](https://skills.thijs.gg/icons?i=ts)](https://skills.thijs.gg)
